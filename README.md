@@ -1,2 +1,2 @@
 # bookbot
-BookBot is my first [Boot.dev](https://www.boot.dev) project!
+BookBot is a CLI written in python that analyses the word and character count of a book.
